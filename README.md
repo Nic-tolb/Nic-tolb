@@ -49,12 +49,4 @@ Estoy formándome como **Técnico Laboral en Desarrollo de Software** en Campusl
 
 ---
 
-### 📊 Actividad en GitHub
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Nic-tolb&show_icons=true&hide_border=true&count_private=true&theme=default" alt="Estadísticas de GitHub" height="160">
-</p>
-
----
-
 <p align="center"><i>¿Tienes una oportunidad o un proyecto en mente? Escríbeme, me encantará conversar.</i></p>
